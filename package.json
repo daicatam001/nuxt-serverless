@@ -13,6 +13,10 @@
     "nuxt": "^2.15.7"
   },
   "devDependencies": {
-    "@nuxtjs/vercel-builder": "^0.22.1"
+    "@nuxtjs/tailwindcss": "^4.2.1",
+    "@nuxtjs/vercel-builder": "^0.22.1",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
   }
 }
